@@ -40,6 +40,7 @@ PRODUCT_PACKAGES += \
     CellBroadcastReceiver \
     Launcher3 \
     LiveWallpapersPicker \
+    masquerade \
     Stk \
     WallpaperPicker
 
